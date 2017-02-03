@@ -1,0 +1,8 @@
+Price:		 Quantity	 Name:
+389.84999999999997 kr.		15 		Microwavable meals
+445.0 kr.		5 		Bleach
+815.75 kr.		65 		Napkins
+1599.0 kr.		100 		Toilet Paper
+588.81 kr.		19 		Coffee cups
+
+Your total: 3838.41 kr.

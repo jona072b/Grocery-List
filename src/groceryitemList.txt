@@ -1,0 +1,40 @@
+Fresh fruit
+12,99
+Microwavable meals
+25,99
+Mac and Cheese
+27,50
+Cereal
+19,50
+Canned Soup
+14,99
+Cookies
+10,50
+Granola bar
+7,50
+Pop-Tarts
+11,89
+Coffee Creamer
+6,99
+Fruit Snacks
+15,00
+Breakfast bars
+9,99
+Pudding Cup
+16,99
+Juice Boxes
+20,99
+Paper Towels
+15,99
+Toilet Paper
+15,99
+Napkins
+12,55
+Facial Tissues
+11,99
+Coffee cups
+30,99
+Bleach
+89,00
+Disinfecting wipes
+68,99
